@@ -1,4 +1,4 @@
-# StudyStudio Online Education Platform (MERN App) [Website Link](https://studynotion-frontend.vercel.app/)
+# StudyStudio Online Education Platform (MERN App) 
 
 ![Main Page](images/mainpage.png)
 
